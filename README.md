@@ -7,7 +7,7 @@ Practial project to study and practice JavaScript  language.
 ## About
 This is a website that displays the current time. Using JavaScript, the site checks the current time and returns a personalized photo and background, depending on the time of day.
 
-### Visit the full website:<a href="https://hours-of-day.netlify.app/" target="_blank"></a>
+### Visit the full website: <a href="https://hours-of-day.netlify.app/" target="_blank"> https://hours-of-day.netlify.app/ </a>
 
 ## Layout
 You can access the project by cliking <a href="https://hours-of-day.netlify.app/" target="_blank"> here </a>
@@ -18,8 +18,8 @@ You can access the project by cliking <a href="https://hours-of-day.netlify.app/
 3. **JAVASCRIPT**, including:
    
     -Functions<br>
-    -Variables
-    -Conditionals
+    -Variables<br>
+    -Conditionals<br>
     -DOM manipulation using methods such as:
    
         - [x] *data.getHours()*
