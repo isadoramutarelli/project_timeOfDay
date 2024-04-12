@@ -17,10 +17,10 @@ You can access the project by cliking <a href="https://hours-of-day.netlify.app/
 2. **CSS3**
 3. **JAVASCRIPT**, including:
    
-    -[x]Functions
-    -[x]Variables
-    -[x]Conditionals
-    -[x]DOM manipulation using methods such as:
+    -Functions
+    -Variables
+    -Conditionals
+    -DOM manipulation using methods such as:
    
         - [x] *data.getHours()*
         - [x] *data.getMinute()*
