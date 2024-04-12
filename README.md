@@ -22,10 +22,10 @@ You can access the project by cliking <a href="https://hours-of-day.netlify.app/
     -Conditionals<br>
     -DOM manipulation using methods such as:
    
-        - [x] *data.getHours()*
-        - [x] *data.getMinute()*
-        - [x] *document.getElementById*
-        - [x] *innerHTML*
+        - *data.getHours()*
+        - *data.getMinute()*
+        - *document.getElementById*
+        - *innerHTML*
 
 
 ## Author
