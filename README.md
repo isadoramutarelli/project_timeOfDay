@@ -17,7 +17,7 @@ You can access the project by cliking <a href="https://hours-of-day.netlify.app/
 2. **CSS3**
 3. **JAVASCRIPT**, including:
    
-    -Functions
+    -Functions<br>
     -Variables
     -Conditionals
     -DOM manipulation using methods such as:
