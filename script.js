@@ -6,6 +6,9 @@ function carregar(){
     var date = new Date();
     var hour = date.getHours();
     var min = date.getMinutes();
+    if(min < 10){
+        min = '0'+ min;
+    }
 
     msg.innerHTML = `<strong>Agora são ${hour}:${min} </strong>`;
     if(hour >=0 && hour < 12 ){

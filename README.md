@@ -2,7 +2,7 @@
 
 Practial project to study and practice JavaScript  language.
 
-### <p align="center">[About](#About) | [Layout](#layout) | [Studied Technologies](#studied-technologies)
+### <p align="center">[About](#About) | [Layout](#layout) | [Technologies Studied ](#technologies-studied)
 
 ## About
 This is a website that displays the current time. Using JavaScript, the site checks the current time and returns a personalized photo and background, depending on the time of day.
@@ -10,16 +10,17 @@ This is a website that displays the current time. Using JavaScript, the site che
 ### Visit the full website:<a href="https://hours-of-day.netlify.app/" target="_blank"></a>
 
 ## Layout
-You can access the project by cliking <a href="https://hours-of-day.netlify.app/" target="_blank">here</a>
+You can access the project by clicking <a href="https://hours-of-day.netlify.app/" target="_blank">here</a>
 
-## Studied Technologies
+## Technologies Studied
 1. **HTML5**
 2. **CSS3**
 3. **JAVASCRIPT**, including:
-    -[x]Functions
-    -[x]Variables
-    -[x]Conditionals
-    -[x]DOM manipulation using methods such as:
+
+    -Functions
+    -Variables
+    -Conditionals
+    -DOM manipulation using methods such as:
 
         - [x] *data.getHours()*
         - [x] *data.getMinute()*
